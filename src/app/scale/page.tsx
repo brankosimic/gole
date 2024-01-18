@@ -1,8 +1,10 @@
-import Hero from "@/components/hero"
-import scaleImg from '/public/scale.jpg'
+// import homeImg from '/public/home.jpg'
+// import Hero from "@/components/hero"
 
 export default function ScalePage() {
-    return (
-        <Hero imgData={scaleImg} imgAlt="Steel factory" title="Scale your app to infinity" />
-    )
-}
+    return <div />
+    // return (
+    //   <Hero imgData={homeImg} imgAlt="Car factory" title="Professional Cloud Hosting" />
+    // )
+  }
+  
